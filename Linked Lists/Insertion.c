@@ -98,12 +98,7 @@ int main()
     printf("1.Inset at the beginning\n");
     printf("2.Insert at the end\n");
     printf("3.Insert at an index\n");
-    /*
-    printf("4.Insert at after a Roll number\n");
-    //This 4th option can be used if we have the specific node address after which
-    //the new node has to be inserted. 
-    */
-
+    
    int option; 
    scanf("%d",&option);
    if (option == 1)
