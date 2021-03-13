@@ -95,7 +95,7 @@ int main()
     linkedlistTraversal(head);
 
     printf("\n\nSelect one of the insertion operation:\n");
-    printf("1.Inset at the beginning\n");
+    printf("1.Insert at the beginning\n");
     printf("2.Insert at the end\n");
     printf("3.Insert at an index\n");
     
